@@ -1,0 +1,38 @@
+{E:/university/alec dig/project/simulation/associative_memory.v} {1 {vlog -work work -vopt {E:/university/alec dig/project/simulation/associative_memory.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module associative_memory
+
+Top level modules:
+	associative_memory
+
+} {} {}} {E:/university/alec dig/project/simulation/cache.v} {2 {vlog -work work -vopt {E:/university/alec dig/project/simulation/cache.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module associative_memory
+** Warning: E:/university/alec dig/project/simulation/cache.v(43): (vlog-2576) [BSOB] - Bit-select into 'cache' is out of bounds.
+
+** Warning: E:/university/alec dig/project/simulation/cache.v(46): (vlog-2576) [BSOB] - Bit-select into 'cache' is out of bounds.
+
+** Warning: E:/university/alec dig/project/simulation/cache.v(48): (vlog-2576) [BSOB] - Bit-select into 'cache' is out of bounds.
+
+** Warning: E:/university/alec dig/project/simulation/cache.v(51): (vlog-2576) [BSOB] - Bit-select into 'cache' is out of bounds.
+
+** Warning: E:/university/alec dig/project/simulation/cache.v(53): (vlog-2576) [BSOB] - Bit-select into 'cache' is out of bounds.
+
+** Warning: E:/university/alec dig/project/simulation/cache.v(56): (vlog-2576) [BSOB] - Bit-select into 'cache' is out of bounds.
+
+** Warning: E:/university/alec dig/project/simulation/cache.v(58): (vlog-2576) [BSOB] - Bit-select into 'cache' is out of bounds.
+
+** Warning: E:/university/alec dig/project/simulation/cache.v(61): (vlog-2576) [BSOB] - Bit-select into 'cache' is out of bounds.
+
+
+Top level modules:
+	associative_memory
+
+} {} {}} {E:/university/alec dig/project/simulation/tb.v} {1 {vlog -work work -vopt {E:/university/alec dig/project/simulation/tb.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}

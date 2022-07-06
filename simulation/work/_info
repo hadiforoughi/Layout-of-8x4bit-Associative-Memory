@@ -1,0 +1,41 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Asus\Downloads\Telegram Desktop
+vassociative_memory
+!i10b 1
+Z1 !s100 mH=QWm6H]Y4VNJ=h@@`7T2
+Z2 IElBRT^@F=OGf[hjnI@4TL2
+Z3 V8b@GRPE2<7CO8HBl>T03e3
+Z4 dE:\university\alec dig\project\simulation
+Z5 w1624968489
+Z6 8E:/university/alec dig/project/simulation/associative_memory.v
+Z7 FE:/university/alec dig/project/simulation/associative_memory.v
+L0 3
+Z8 OL;L;10.1c;51
+r1
+!s85 0
+31
+!s108 1624968496.680000
+!s107 E:/university/alec dig/project/simulation/associative_memory.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|E:/university/alec dig/project/simulation/associative_memory.v|
+Z10 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+vtb
+Z11 IZFNXgoEoe@_bHL9o==g1O2
+Z12 VV@Xn<HnSRM[I5c1?BH]3a3
+R4
+Z13 w1624830653
+Z14 8E:/university/alec dig/project/simulation/tb.v
+Z15 FE:/university/alec dig/project/simulation/tb.v
+L0 2
+R8
+r1
+31
+R10
+Z16 !s100 g@SXY9_E_6E]FzIUD:Wla3
+Z17 !s108 1624890475.613000
+Z18 !s107 E:/university/alec dig/project/simulation/tb.v|
+Z19 !s90 -reportprogress|300|-work|work|-vopt|E:/university/alec dig/project/simulation/tb.v|
+!i10b 1
+!s85 0
